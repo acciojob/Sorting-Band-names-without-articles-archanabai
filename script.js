@@ -20,4 +20,24 @@ function getArticleLessString(input) {
     return nonArticleWords.join(" "); //  "tajmahal umberilla"
 }
 
+arr.sort((a)=>getArticleLessString(a))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
